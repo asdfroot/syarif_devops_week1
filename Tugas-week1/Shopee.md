@@ -10,12 +10,12 @@ Shopee belum memiliki Devops dalam pengembangan sistem aplikasi yang telah merek
 
 Alat yang digunakan: Git
 
-Git adalah salah satu tipe _version control system_ (VCS) yang memudahkan proses pelacakan dan pencatatan perubahan dari sebuah dokumen. Hal ini memudahkan developers untuk melihat secara detail perubahan yang telah terjadi pada kode aplikasi atau website.
+Git adalah salah satu tipe _version control system_ (VCS) yang memudahkan proses pelacakan dan pencatatan perubahan dari sebuah dokumen. Hal ini memudahkan developers untuk melihat secara detail perubahan yang telah terjadi pada kode aplikasi atau _website_.
 
 
 ### Alasan menggunakan Git
-- Sudah terintegrasi dengan berbagai tools dan service software pihak ketiga.
-- Open Source yang memiliki banyak komunitas
+- Sudah terintegrasi dengan berbagai tools dan _service software_ pihak ketiga.
+- _Open Source_ yang memiliki banyak komunitas
 
 
 ## Continuous Integration
@@ -24,7 +24,7 @@ Git adalah salah satu tipe _version control system_ (VCS) yang memudahkan proses
 
 Alat yang digunakan: jenkins dan ubuntu
 
-Jenkins merupakan automation server yang bersifat open source serta bebas untuk digunakan. Alat ini dapat membantu mengotomatisasi proses software development dengan continuous integration (CI) dan memfasilitasi aspek teknis untuk continuous delivery (CD). Dengan Jenkins, Anda dapat mengatur dan menyesuaikan CI/CD pipeline sesuai dengan apa yang Anda butuhkan. Jenkins menjadi alat yang populer di kalangan DevOps Engineer karena menawarkan lebih dari 1000 plugin yang dapat terintegrasi dengan hampir semua alat DevOps.
+Jenkins merupakan _automation server_ yang bersifat _open source_ serta bebas untuk digunakan. Alat ini dapat membantu mengotomatisasi proses _software development_ dengan _continuous integration_ (CI) dan memfasilitasi aspek teknis untuk _continuous delivery_ (CD). Dengan Jenkins, Anda dapat mengatur dan menyesuaikan CI/CD _pipeline_ sesuai dengan apa yang Anda butuhkan. Jenkins menjadi alat yang populer di kalangan _DevOps Engineer_ karena menawarkan lebih dari 1000 plugin yang dapat terintegrasi dengan hampir semua alat DevOps.
 
 ![gambar ubuntu](assets/ubuntu.png)
 
@@ -37,7 +37,7 @@ Ubuntu adalah distribusi Linux berdasarkan Debian yang dibuat pada tahun 2004. U
 
 ### Alasan menggunakan ubuntu
 - Gratis untuk Digunakan
-- Open Sources
+- _Open Sources_
 - Ringan Digunakan
 
 
@@ -54,7 +54,7 @@ Dengan alat ini, dapat melakukan proses pengujian berkelanjutan untuk menguji ki
 
 ## Alasan menggunakan Selenium
 - tools open source
-- Support dengan beberapa bahasa pemrograman dan framework
+- Support dengan beberapa bahasa pemrograman dan _framework_
 - Selenium bisa digunakan pada berbagai browser dan sistem operasi
 
 ## Continuous Deployment
@@ -63,7 +63,7 @@ Dengan alat ini, dapat melakukan proses pengujian berkelanjutan untuk menguji ki
 
 Alat yang digunakan: Docker
 
-Docker adalah sebuah teknologi container software open source yang memungkinkan Anda untuk membangun, menguji, dan menyebarkan aplikasi terdistribusi dalam lingkungan yang terisolasi. Docker menyediakan virtualisasi ringan dengan overhead hampir nol. Dengan Docker, Elitery dapat mengoptimalkan Infrastruktur TI Perusahaan Anda, dengan menghilangkan guest OS atau Hypervisor serta biaya lisensinya. Anda juga akan dapat Merilis Software lebih cepat, Meningkatkan Produktivitas Pengembang, Memiliki Aplikasi Portable dan Mengurangi jumlah penyimpanan :
+Docker adalah sebuah teknologi _container software open source_ yang memungkinkan Anda untuk membangun, menguji, dan menyebarkan aplikasi terdistribusi dalam lingkungan yang terisolasi. Docker menyediakan virtualisasi ringan dengan _overhead_ hampir nol. Dengan Docker, Elitery dapat mengoptimalkan Infrastruktur TI Perusahaan Anda, dengan menghilangkan guest OS atau Hypervisor serta biaya lisensinya. Anda juga akan dapat Merilis _Software_ lebih cepat, Meningkatkan Produktivitas Pengembang, Memiliki Aplikasi Portable dan Mengurangi jumlah penyimpanan :
 
 - Konfigurasi sederhana
 - Dapat Melakukan Pengujian dan Distribusi Aplikasi Secara Terus Menerus
@@ -75,8 +75,8 @@ Docker adalah sebuah teknologi container software open source yang memungkinkan 
 
 Alat yang digunakan: Nagios
 
-Nagios merupakan open source monitoring sistem komputer, jaringan pemantauan dan monitoring infrastruktur aplikasi perangkat lunak. Nagios menawarkan pemantauan dan layanan peringatan untuk server, switch, aplikasi, dan layanan. Ia mengingatkan pengguna bila ada sesuatu yang salah dan mengingatkan mereka untuk kedua kalinya ketika masalah telah diselesaikan :
+Nagios merupakan _open source_ monitoring sistem komputer, jaringan pemantauan dan monitoring infrastruktur aplikasi perangkat lunak. Nagios menawarkan pemantauan dan layanan peringatan untuk server, switch, aplikasi, dan layanan. Ia mengingatkan pengguna bila ada sesuatu yang salah dan mengingatkan mereka untuk kedua kalinya ketika masalah telah diselesaikan :
 
-- Kemudahan untuk membuat plugin
-- Beragam Pemberitahuan Jika dideteksi adanya trouble
+- Kemudahan untuk membuat _plugin_
+- Beragam Pemberitahuan Jika dideteksi adanya _trouble_
 - Pengecekan layanan secara paralel
