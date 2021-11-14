@@ -8,5 +8,5 @@ Membuat Kultur DevOps dalam Sebuah Perusahaan
 
 - Tools yang dijelaskan boleh berbeda dari materi yang diajarkan
 
-[Berikut penjelasan tugas nya lebih lanjut](Tugas-week-1/README.md)
+[Berikut penjelasan tugas nya lebih lanjut](Tugas-week1/README.md)
 
