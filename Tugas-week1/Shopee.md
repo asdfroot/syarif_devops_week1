@@ -6,7 +6,6 @@ Shopee belum memiliki Devops dalam pengembangan sistem aplikasi yang telah merek
 
 ## Continuous Development
 ![gambar developer](assets/developer.png)
-.............................................................................................................................................................
 ![gambar git](assets/git.png)
 
 Alat yang digunakan: Git
