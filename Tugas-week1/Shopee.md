@@ -10,7 +10,7 @@ Shopee belum memiliki Devops dalam pengembangan sistem aplikasi yang telah merek
 
 Alat yang digunakan: Git
 
-Git adalah salah satu tipe version control system (VCS) yang memudahkan proses pelacakan dan pencatatan perubahan dari sebuah dokumen. Hal ini memudahkan developers untuk melihat secara detail perubahan yang telah terjadi pada kode aplikasi atau website.
+Git adalah salah satu tipe _version control system_ (VCS) yang memudahkan proses pelacakan dan pencatatan perubahan dari sebuah dokumen. Hal ini memudahkan developers untuk melihat secara detail perubahan yang telah terjadi pada kode aplikasi atau website.
 
 
 ### Alasan menggunakan Git
