@@ -21,11 +21,12 @@ Git adalah salah satu tipe version control system (VCS) yang memudahkan proses p
 ## Continuous Integration
 ![gambar integration](assets/integration.png)
 ![gambar jenkins](assets/jenkins.png)
-![gambar ubuntu](assets/ubuntu.png)
 
 Alat yang digunakan: jenkins dan ubuntu
 
 Jenkins merupakan automation server yang bersifat open source serta bebas untuk digunakan. Alat ini dapat membantu mengotomatisasi proses software development dengan continuous integration (CI) dan memfasilitasi aspek teknis untuk continuous delivery (CD). Dengan Jenkins, Anda dapat mengatur dan menyesuaikan CI/CD pipeline sesuai dengan apa yang Anda butuhkan. Jenkins menjadi alat yang populer di kalangan DevOps Engineer karena menawarkan lebih dari 1000 plugin yang dapat terintegrasi dengan hampir semua alat DevOps.
+
+![gambar ubuntu](assets/ubuntu.png)
 
 Ubuntu adalah distribusi Linux berdasarkan Debian yang dibuat pada tahun 2004. Ubuntu merupakan operasi sistem yang paling banyak digunakan. Awalnya Ubuntu dikembangkan untuk komputer pribadi, hingga kemudian Ubuntu mulai dikembangkan untuk digunakan pada server, dan smartphone.
 
