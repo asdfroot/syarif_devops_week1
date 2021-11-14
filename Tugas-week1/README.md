@@ -11,6 +11,6 @@ kebutuhan yang harus ada :
 - Continuous Monitoring : Nagios
 
 # Penyelesaian
-[shopiepedia](shopiepedia.md)
+[Shopee](Shopee.md)
 
 
