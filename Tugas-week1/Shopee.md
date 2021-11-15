@@ -71,9 +71,10 @@ Alat yang digunakan: Docker
 
 ## Continuous Monitoring
 ![gambar monitoring](assets/monitoring.png)
-![gambar nagios](assets/nagios.png)
 
 Alat yang digunakan: Nagios
+
+![gambar nagios](assets/nagios.png)
 
 **Nagios** merupakan _open source_ monitoring sistem komputer, jaringan pemantauan dan monitoring infrastruktur aplikasi perangkat lunak. Nagios menawarkan pemantauan dan layanan peringatan untuk _server_, _switch_, aplikasi, dan layanan. Ia mengingatkan pengguna bila ada sesuatu yang salah dan mengingatkan mereka untuk kedua kalinya ketika masalah telah diselesaikan :
 
