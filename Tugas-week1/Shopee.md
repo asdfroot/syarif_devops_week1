@@ -6,9 +6,10 @@
 
 ## Continuous Development
 ![gambar developer](assets/developer.png)
-![gambar git](assets/git.png)
 
 Alat yang digunakan: Git
+
+![gambar git](assets/git.png)
 
 **Git** adalah salah satu tipe _version control system_ (VCS) yang memudahkan proses pelacakan dan pencatatan perubahan dari sebuah dokumen. Hal ini memudahkan developers untuk melihat secara detail perubahan yang telah terjadi pada kode aplikasi atau _website_.
 
@@ -20,9 +21,10 @@ Alat yang digunakan: Git
 
 ## Continuous Integration
 ![gambar integration](assets/integration.png)
-![gambar jenkins](assets/jenkins.png)
 
 Alat yang digunakan: jenkins dan ubuntu
+
+![gambar jenkins](assets/jenkins.png)
 
 **Jenkins** merupakan _automation server_ yang bersifat _open source_ serta bebas untuk digunakan. Alat ini dapat membantu mengotomatisasi proses _software development_ dengan _continuous integration_ (CI) dan memfasilitasi aspek teknis untuk _continuous delivery_ (CD). Dengan Jenkins, Anda dapat mengatur dan menyesuaikan CI/CD _pipeline_ sesuai dengan apa yang Anda butuhkan. Jenkins menjadi alat yang populer di kalangan _DevOps Engineer_ karena menawarkan lebih dari 1000 plugin yang dapat terintegrasi dengan hampir semua alat DevOps.
 
@@ -44,9 +46,10 @@ Alat yang digunakan: jenkins dan ubuntu
 
 ## Continuous Testing
 ![gambar testing](assets/testing.png)
-![gambar selenium](assets/selenium.png)
 
 Alat yang digunakan: Selenium
+
+![gambar selenium](assets/selenium.png)
 
  **Selenium** adalah tools auto testing yang digunakan untuk mengotomatisasi tes aplikasi web yang dilakukan pada browser. Selenium akan melakukan validasi web apps pada berbagai browser dan platform.
 
@@ -59,9 +62,11 @@ Dengan alat ini, dapat melakukan proses pengujian berkelanjutan untuk menguji ki
 
 ## Continuous Deployment
 ![gambar deployment](assets/deployment.png)
-![gambar docker](assets/docker.png)
+
 
 Alat yang digunakan: Docker
+
+![gambar docker](assets/docker.png)
 
 **Docker** adalah sebuah teknologi _container software open source_ yang memungkinkan Anda untuk membangun, menguji, dan menyebarkan aplikasi terdistribusi dalam lingkungan yang terisolasi. Docker menyediakan virtualisasi ringan dengan _overhead_ hampir nol. Dengan Docker, Elitery dapat mengoptimalkan Infrastruktur TI Perusahaan Anda, dengan menghilangkan _guest OS_ atau _Hypervisor_ serta biaya lisensinya. Anda juga akan dapat Merilis _Software_ lebih cepat, Meningkatkan Produktivitas Pengembang, Memiliki Aplikasi Portable dan Mengurangi jumlah penyimpanan :
 
