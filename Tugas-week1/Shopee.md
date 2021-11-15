@@ -28,20 +28,10 @@ Alat yang digunakan: jenkins dan ubuntu
 
 **Jenkins** merupakan _automation server_ yang bersifat _open source_ serta bebas untuk digunakan. Alat ini dapat membantu mengotomatisasi proses _software development_ dengan _continuous integration_ (CI) dan memfasilitasi aspek teknis untuk _continuous delivery_ (CD). Dengan Jenkins, Anda dapat mengatur dan menyesuaikan CI/CD _pipeline_ sesuai dengan apa yang Anda butuhkan. Jenkins menjadi alat yang populer di kalangan _DevOps Engineer_ karena menawarkan lebih dari 1000 plugin yang dapat terintegrasi dengan hampir semua alat DevOps.
 
-![gambar ubuntu](assets/ubuntu.png)
-
-**Ubuntu** adalah distribusi Linux berdasarkan Debian yang dibuat pada tahun 2004. Ubuntu merupakan operasi sistem yang paling banyak digunakan. Awalnya Ubuntu dikembangkan untuk komputer pribadi, hingga kemudian Ubuntu mulai dikembangkan untuk digunakan pada _server_, dan _smartphone_.
-
 ### Alasan menggunakan jenkins
 - memiliki banyak plugins
 - dapat dicustomize sesuai dengan kebutuhan
 - memiliki banyak plugins yang dapat mengintegrasi
-
-### Alasan menggunakan ubuntu
-- Gratis untuk Digunakan
-- _Open Sources_
-- Ringan Digunakan
-
 
 
 ## Continuous Testing
@@ -86,3 +76,16 @@ Alat yang digunakan: Nagios
 - Kemudahan untuk membuat _plugin_
 - Beragam Pemberitahuan Jika dideteksi adanya _trouble_
 - Pengecekan layanan secara paralel
+
+## Operating System
+
+![gambar ubuntu](assets/ubuntu.png)
+
+
+**Ubuntu** adalah distribusi Linux berdasarkan Debian yang dibuat pada tahun 2004. Ubuntu merupakan operasi sistem yang paling banyak digunakan. Awalnya Ubuntu dikembangkan untuk komputer pribadi, hingga kemudian Ubuntu mulai dikembangkan untuk digunakan pada _server_, dan _smartphone_.
+
+
+### Alasan menggunakan ubuntu
+- Gratis untuk Digunakan
+- _Open Sources_
+- Ringan Digunakan
