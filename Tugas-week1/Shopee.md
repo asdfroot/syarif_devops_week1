@@ -92,4 +92,4 @@ Alat yang digunakan: Nagios
 
 ### IP
 
-Perusahaan ini menggunakan **LAN** _(Local Area Network)_ karena jaringannya masih mencakup wilayah kecil dengan tipe jaringan _CLient-Server_. memiliki akses yang tinggi, keamanan dan _backup_ data lebih baik. ini yang dicari oleh perusahaan, dan dengan jenis **Topology** yang digunakan adalah Star. **IP address** yang digunakan perusahaan ini adalah **IP Address Public** dengan jenis **IP Address Dinamis**.
+Perusahaan ini menggunakan **LAN** _(Local Area Network)_ karena jaringannya masih mencakup wilayah kecil dengan tipe jaringan _CLient-Server_. memiliki akses yang tinggi, keamanan dan _backup_ data lebih baik. **Topology** yang digunakan adalah **Star**, **IP address** yang digunakan perusahaan ini adalah **IP Address Public** dengan jenis **IP Address Dinamis**.
